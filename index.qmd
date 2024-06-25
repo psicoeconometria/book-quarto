@@ -8,5 +8,4 @@ To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
 **How cite this template:**
 
-<a href="https://doi.org/10.5281/zenodo.10443127"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10443127.svg" alt="DOI"></a>
-
+<a href="https://doi.org/10.5281/zenodo.10443127"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10443127.svg" alt="DOI"/></a>
