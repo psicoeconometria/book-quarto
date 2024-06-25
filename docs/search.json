@@ -30,16 +30,6 @@
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
     "objectID": "04-results.html",
     "href": "04-results.html",
     "title": "4  Results",
@@ -67,6 +57,16 @@
     "text": "4.3 LaTeX Math\nYou can also include LaTeX math:\n\\[\nP\\left(A=2\\middle|\\frac{A^2}{B}&gt;4\\right)\n\\]",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Results</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Albano, Cláudio Sonáglio, Paula de Oliveira Pedroso, and Doriedson\nOliveira Caetano. 2023. “Ciência Aberta:\nUm Panorama Sobre as Publicações No Cenário Brasileiro.” Saber\nCientífico 12 (1): 1–12.\n\n\nBaker, Monya. 2016. “1,500 Scientists Lift the\nLid on Reproducibility.”\nNature 533 (7604): 452–54. https://doi.org/10.1038/533452a.\n\n\nBernard, Christophe. 2023. “Stop Reproducing the\nReproducibility Crisis.” Eneuro 10 (2):\nENEURO.0032–23.2023. https://doi.org/10.1523/ENEURO.0032-23.2023.\n\n\nCaballero-Rivero, Alejandro, Nancy Sánchez-Tarragó, and Raimundo Nonato\nMacedo dos Santos. 2019. “Práticas de Ciência Aberta Da\nComunidade Acadêmica Brasileira: Estudo a Partir Da\nProdução Científica.”\nTransinformação 31 (November):\ne190029. https://doi.org/10.1590/2318-0889201931e190029.\n\n\nCommittee on Reproducibility and Replicability in Science, Board on\nBehavioral, Cognitive, and Sensory Sciences, Committee on National\nStatistics, Division of Behavioral and Social Sciences and Education,\nNuclear and Radiation Studies Board, Division on Earth and Life Studies,\nBoard on Mathematical Sciences and Analytics, et al. 2019.\nReproducibility and Replicability in\nScience. Washington, D.C.: National Academies Press.\nhttps://doi.org/10.17226/25303.\n\n\nCrüwell, Sophia, Johnny Van Doorn, Alexander Etz, Matthew C. Makel,\nHannah Moshontz, Jesse C. Niebaum, Amy Orben, Sam Parsons, and Michael\nSchulte-Mecklenbeck. 2019. “Seven Easy Steps to\nOpen Science: An Annotated Reading\nList.” Zeitschrift für Psychologie\n227 (4): 237–48. https://doi.org/10.1027/2151-2604/a000387.\n\n\nDogucu, Mine, and Mine Çetinkaya-Rundel. 2022. “Tools and\nRecommendations for Reproducible\nTeaching.” Journal of Statistics and Data Science\nEducation 30 (3): 251–60. https://doi.org/10.1080/26939169.2022.2138645.\n\n\nEuropean Commission. Directorate General for Research and Innovation.\n2017. Providing Researchers with the\nSkills and Competencies They Need to\nPractise Open Science. LU: Publications Office.\n\n\nFanelli, Daniele. 2018. “Is Science Really Facing a\nReproducibility Crisis, and Do We Need It\nTo?” Proceedings of the National Academy of\nSciences 115 (11): 2628–31. https://doi.org/10.1073/pnas.1708272114.\n\n\nFreedman, Leonard P., Iain M. Cockburn, and Timothy S. Simcoe. 2015.\n“The Economics of Reproducibility in\nPreclinical Research.” PLOS Biology 13 (6):\ne1002165. https://doi.org/10.1371/journal.pbio.1002165.\n\n\nGilroy, Shawn P., and Brent A. Kaplan. 2019. “Furthering\nOpen Science in Behavior Analysis: An\nIntroduction and Tutorial for Using\nGitHub in Research.” Perspectives on\nBehavior Science 42 (3): 565–81. https://doi.org/10.1007/s40614-019-00202-5.\n\n\nHeinz, Michele, and Miranda Miranda. 2024. “Ciência\nAberta: Argumentos e Desafios Para Sua Legitimação Científica.” Em\nQuestão 30. https://doi.org/10.1590/1808-5245.30.135618.\n\n\nMendes-Da-Silva, Wesley. 2023. “What Lectures and\nResearch in Business Management Need to\nKnow About Open Science.” Revista de\nAdministração de Empresas 63 (4):\ne0000–0033. https://doi.org/10.1590/s0034-759020230408x.\n\n\nMunafò, Marcus R., Brian A. Nosek, Dorothy V. M. Bishop, Katherine S.\nButton, Christopher D. Chambers, Nathalie Percie Du Sert, Uri Simonsohn,\nEric-Jan Wagenmakers, Jennifer J. Ware, and John P. A. Ioannidis. 2017.\n“A Manifesto for Reproducible\nScience.” Nature Human Behaviour 1 (1): 0021. https://doi.org/10.1038/s41562-016-0021.\n\n\nNeto, Silvio Carvalho, John Willinsky, and Juan Pablo Alperin. 2016.\n“Measuring, Rating, Supporting, and\nStrengthening Open Access Scholarly Publishing in\nBrazil.” Education Policy Analysis Archives\n24 (May): 54–54. https://doi.org/10.14507/epaa.24.2391.\n\n\nProtzko, John, Jon Krosnick, Leif Nelson, Brian A. Nosek, Jordan Axt,\nMatt Berent, Nicholas Buttrick, et al. 2023. “High\nReplicability of Newly Discovered Social-Behavioural\nFindings Is Achievable.” Nature Human Behaviour,\nNovember. https://doi.org/10.1038/s41562-023-01749-9.\n\n\nRezende, Laura Vilela Rodrigues, and Ernest Abadal Falgueras. 2020.\n“Estado Da Arte Dos Marcos Regulatórios Brasileiros Rumo à Ciência Aberta.” Encontros Bibli:\nRevista Eletrônica de Biblioteconomia e\nCiência Da Informação 25\n(September): 01–25. https://doi.org/10.5007/1518-2924.2020.e71370.\n\n\nSilva, Fabiano Couto Corrêa Da, and Lúcia Da Silveira. 2019. “O\nEcossistema Da Ciência\nAberta.”\nTransinformação 31: e190001. https://doi.org/10.1590/2318-0889201931e190001.\n\n\nUNESCO. 2021. “UNESCO Recommendation on Open\nScience.” UNESCO. https://doi.org/10.54677/MNMH8546.\n\n\nVicente-Saez, Ruben, and Clara Martinez-Fuentes. 2018. “Open\nScience Now: A Systematic Literature Review\nfor an Integrated Definition.” Journal of\nBusiness Research 88 (July): 428–36. https://doi.org/10.1016/j.jbusres.2017.12.043.",
+    "crumbs": [
+      "References"
     ]
   }
 ]
